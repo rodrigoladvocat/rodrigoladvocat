@@ -2,7 +2,6 @@
 <br>
 
 -  I’m a Computer Science Undergraduate @ CIn - UFPE
--  I’m currently working at CITi - UFPE as a Data Specialist
 -  How to contact me: ladvocatrodrigo@gmail.com
 <br>
 
